@@ -1,1 +1,1 @@
-include ':app', ':handler'
+include ':app', ':permission-handler'
