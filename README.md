@@ -1,7 +1,6 @@
 [![Platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [ ![Download](https://api.bintray.com/packages/rizlee/permission-handler/permission-handler/images/download.svg?version=1.0.0) ](https://bintray.com/rizlee/permission-handler/permission-handler/1.0.0/link)
-
 # Usage
 #### Gradle
 ```xml
